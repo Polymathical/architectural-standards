@@ -1,4 +1,4 @@
-# Engineering Standards
+# Architectural Standards
 
 A Claude Code plugin marketplace with one plugin, `standards`. The plugin audits a codebase against a set of distilled engineering lessons, then plans and carries out an incremental refactor toward a layered, modular, low-complexity architecture. It works with any language that shares these design principles.
 
