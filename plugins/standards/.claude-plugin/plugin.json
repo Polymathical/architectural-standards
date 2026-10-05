@@ -1,0 +1,13 @@
+{
+  "name": "standards",
+  "displayName": "Engineering Standards",
+  "version": "0.1.0",
+  "description": "Audit, plan and incrementally refactor codebases toward a layered, modular, low-complexity architecture, guided by distilled engineering lessons.",
+  "author": {
+    "name": "Jonathan Bakert",
+    "url": "https://github.com/Polymathical"
+  },
+  "homepage": "https://github.com/Polymathical/engineering-standards",
+  "repository": "https://github.com/Polymathical/engineering-standards",
+  "keywords": ["architecture", "refactoring", "audit", "code-review", "complexity", "naming", "standards"]
+}

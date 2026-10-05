@@ -1,0 +1,14 @@
+{
+  "name": "engineering-standards",
+  "description": "Plugins that audit, plan and refactor codebases toward a layered, modular, low-complexity architecture.",
+  "owner": {
+    "name": "Jonathan Bakert"
+  },
+  "plugins": [
+    {
+      "name": "standards",
+      "source": "./plugins/standards",
+      "description": "Audit, blueprint, plan, refactor, fix, review and track progress against distilled engineering lessons."
+    }
+  ]
+}
