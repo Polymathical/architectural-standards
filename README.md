@@ -47,8 +47,6 @@ claude plugin install standards@engineering-standards --scope project
 
 Commit the `.claude/settings.json` that these commands write, so teammates who trust the folder get the same setup. Inside a session, `/plugin` shows the installed plugin and its commands.
 
-**This repository is private.** Everyone who installs the plugin needs read access to it, and credentials that git can use without prompting. With the GitHub CLI, run `gh auth login` and then `gh auth setup-git`. To try a local checkout instead, pass its path to `claude plugin marketplace add`.
-
 **Requirements:** git. For measured metrics, Python 3 and the `lizard` package (`pip install lizard`). Without them, the audit falls back to estimates.
 
 ## Releasing a change
